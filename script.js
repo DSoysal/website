@@ -1,1 +1,1 @@
-document.write("-deniz soysal");
+document.write("deniz soysal");

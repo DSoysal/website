@@ -1,1 +1,1 @@
-document.write("\ndeniz soysal");
+document.write("\n \n deniz soysal");
